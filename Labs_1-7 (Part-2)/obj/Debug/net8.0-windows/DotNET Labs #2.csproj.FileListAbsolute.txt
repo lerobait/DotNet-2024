@@ -1,0 +1,14 @@
+E:\Programming\DotNET\DotNET Labs #2\bin\Debug\net8.0-windows\DotNET Labs #2.exe
+E:\Programming\DotNET\DotNET Labs #2\bin\Debug\net8.0-windows\DotNET Labs #2.deps.json
+E:\Programming\DotNET\DotNET Labs #2\bin\Debug\net8.0-windows\DotNET Labs #2.runtimeconfig.json
+E:\Programming\DotNET\DotNET Labs #2\bin\Debug\net8.0-windows\DotNET Labs #2.dll
+E:\Programming\DotNET\DotNET Labs #2\bin\Debug\net8.0-windows\DotNET Labs #2.pdb
+E:\Programming\DotNET\DotNET Labs #2\obj\Debug\net8.0-windows\DotNET Labs #2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\DotNET\DotNET Labs #2\obj\Debug\net8.0-windows\DotNET Labs #2.AssemblyInfoInputs.cache
+E:\Programming\DotNET\DotNET Labs #2\obj\Debug\net8.0-windows\DotNET Labs #2.AssemblyInfo.cs
+E:\Programming\DotNET\DotNET Labs #2\obj\Debug\net8.0-windows\DotNET Labs #2.csproj.CoreCompileInputs.cache
+E:\Programming\DotNET\DotNET Labs #2\obj\Debug\net8.0-windows\DotNET Labs #2.dll
+E:\Programming\DotNET\DotNET Labs #2\obj\Debug\net8.0-windows\refint\DotNET Labs #2.dll
+E:\Programming\DotNET\DotNET Labs #2\obj\Debug\net8.0-windows\DotNET Labs #2.pdb
+E:\Programming\DotNET\DotNET Labs #2\obj\Debug\net8.0-windows\DotNET Labs #2.genruntimeconfig.cache
+E:\Programming\DotNET\DotNET Labs #2\obj\Debug\net8.0-windows\ref\DotNET Labs #2.dll

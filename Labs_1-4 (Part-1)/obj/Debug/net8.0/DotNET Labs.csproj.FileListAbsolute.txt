@@ -1,0 +1,14 @@
+G:\Programming\DotNET\DotNET Labs\bin\Debug\net8.0\DotNET Labs.exe
+G:\Programming\DotNET\DotNET Labs\bin\Debug\net8.0\DotNET Labs.deps.json
+G:\Programming\DotNET\DotNET Labs\bin\Debug\net8.0\DotNET Labs.runtimeconfig.json
+G:\Programming\DotNET\DotNET Labs\bin\Debug\net8.0\DotNET Labs.dll
+G:\Programming\DotNET\DotNET Labs\bin\Debug\net8.0\DotNET Labs.pdb
+G:\Programming\DotNET\DotNET Labs\obj\Debug\net8.0\DotNET Labs.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\DotNET\DotNET Labs\obj\Debug\net8.0\DotNET Labs.AssemblyInfoInputs.cache
+G:\Programming\DotNET\DotNET Labs\obj\Debug\net8.0\DotNET Labs.AssemblyInfo.cs
+G:\Programming\DotNET\DotNET Labs\obj\Debug\net8.0\DotNET Labs.csproj.CoreCompileInputs.cache
+G:\Programming\DotNET\DotNET Labs\obj\Debug\net8.0\DotNET Labs.dll
+G:\Programming\DotNET\DotNET Labs\obj\Debug\net8.0\refint\DotNET Labs.dll
+G:\Programming\DotNET\DotNET Labs\obj\Debug\net8.0\DotNET Labs.pdb
+G:\Programming\DotNET\DotNET Labs\obj\Debug\net8.0\DotNET Labs.genruntimeconfig.cache
+G:\Programming\DotNET\DotNET Labs\obj\Debug\net8.0\ref\DotNET Labs.dll
